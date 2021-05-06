@@ -1,0 +1,6 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.pdb

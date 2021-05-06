@@ -1,0 +1,16 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CopyComplete
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.pdb

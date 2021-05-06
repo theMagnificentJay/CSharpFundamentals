@@ -1,0 +1,10 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CopyComplete
