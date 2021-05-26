@@ -1,0 +1,12 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.exe.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\Newtonsoft.Json.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\System.Net.Http.Formatting.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\Newtonsoft.Json.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\bin\Debug\System.Net.Http.Formatting.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csproj.CopyComplete

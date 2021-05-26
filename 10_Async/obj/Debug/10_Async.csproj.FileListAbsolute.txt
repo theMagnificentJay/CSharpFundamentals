@@ -1,0 +1,7 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\bin\Debug\10_Async.exe.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\bin\Debug\10_Async.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\bin\Debug\10_Async.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\obj\Debug\10_Async.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\obj\Debug\10_Async.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\obj\Debug\10_Async.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\10_Async\obj\Debug\10_Async.pdb

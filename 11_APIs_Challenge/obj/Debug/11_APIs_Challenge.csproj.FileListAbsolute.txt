@@ -1,0 +1,12 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\11_APIs_Challenge.exe.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\11_APIs_Challenge.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\11_APIs_Challenge.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\Newtonsoft.Json.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\System.Net.Http.Formatting.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\Newtonsoft.Json.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\bin\Debug\System.Net.Http.Formatting.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\obj\Debug\11_APIs_Challenge.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\obj\Debug\11_APIs_Challenge.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\obj\Debug\11_APIs_Challenge.csproj.CopyComplete
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\obj\Debug\11_APIs_Challenge.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\11_APIs_Challenge\obj\Debug\11_APIs_Challenge.pdb

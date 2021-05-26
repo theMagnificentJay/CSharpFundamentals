@@ -1,0 +1,10 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CopyComplete
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.exe
+X:\schoolFolder\sd86-Apr2021\VSCommunity\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.pdb
